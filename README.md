@@ -1,5 +1,5 @@
-# M5StickCAvatar
-UIFlow's custom block of M5StickC+ Avatar
+# M5StackAvatar_UIFlow
+UIFlow's custom block of M5Stack/M5StickC+ Avatar
 
 UIFlowの"Custom"ブロックの"Open *.m5b file"からM5StickCAvatar.m5bを読み込むと、以下のブロックが使えます。
 
